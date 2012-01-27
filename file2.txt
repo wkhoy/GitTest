@@ -1,3 +1,5 @@
 This is another file.
 It was created at the very beginning, also before Git.
 
+This is an update to an existing file, after Git.
+
