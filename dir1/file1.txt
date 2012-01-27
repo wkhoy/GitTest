@@ -1,0 +1,3 @@
+This is a file inside a directory.  The file has the same name
+as another file.  This was made before Git.
+
