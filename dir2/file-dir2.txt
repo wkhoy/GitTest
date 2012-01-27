@@ -1,0 +1,2 @@
+This is a newly added file in a newly added directory.
+
