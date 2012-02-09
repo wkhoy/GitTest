@@ -3,3 +3,7 @@ It was created at the very beginning, before git.
 
 This is an out-of-sync change with development, made in master.
 
+This is added in the local development branch
+
+This is another change in the local development branch.
+
